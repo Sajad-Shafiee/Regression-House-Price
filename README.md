@@ -26,4 +26,3 @@ The project follows these main steps:
 - Scikit-learn
 - Jupyter Notebook
 
-## Project Structure
